@@ -1,0 +1,1 @@
+.extra{display:none}.hidden-parent{visibility:hidden;position:relative}.hidden-parent:before{content:"<Parent Hidden in Front Side of Card>";visibility:visible;background-color:#e2ecf0;border-radius:6px;opacity:.6}body.nightMode .hidden-parent:before{background-color:#4d4d4d}
